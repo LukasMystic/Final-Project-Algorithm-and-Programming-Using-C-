@@ -1,0 +1,9 @@
+Nama Barang,Jenis,Stok,Harga,Tanggal transaksi,Barang yang dibeli
+AMD Ryzen 7 5800G Processor,CPU,20,3499000,09 September 2009,3
+G.Skill Ripjaws V 64GB RAM,RAM,25,2999000,02 Februari 2002,2
+Crucial MX500 2TB SATA SSD,Storage,6,999000,03 Maret 2003,2
+Logitech MX Master 3 Wireless Mouse,Peripheral,30,899000,03 Maret 2003,3
+Logitech MX Anywhere 3 Wireless Mouse,Peripheral,20,899000,03 Maret 2003,3
+AMD Ryzen 9 6900X Processor,CPU,20,6999000,05 Mei 2005,4
+G.Skill Trident Z Neo 64GB RAM,RAM,25,3499000,04 Desember 2023,4
+ASUS ROG Strix RTX 3090 GPU,GPU,3,9999000,04 Desember 2023,2
